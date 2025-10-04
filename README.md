@@ -11,7 +11,6 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2021<br>
 📚 I'm currently learning backend development<br>
 🎯 Goals: Build innovative educational apps and systems that make learning more engaging and accessible<br>
 🎲 Fun fact: I enjoy turning “what ifs” into working prototypes.
